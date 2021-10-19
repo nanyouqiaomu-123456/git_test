@@ -1,0 +1,12 @@
+package com.jenny.git;
+
+/**
+ * @author: jenny
+ * @create: 2021-10-19 2:12 下午
+ */
+public class GitTest {
+
+    public static void main(String[] args){
+        System.out.println("hello git~");
+    }
+}
